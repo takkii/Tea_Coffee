@@ -24,4 +24,8 @@ deinで管理しているならば、
 
 *Vim8でIntelliJをijaasで使うときにの入力補完として、お使いください！*
 
+![Duke](https://github.com/takkii/Tea_Coffee/blob/master/image/Duke_Blocks.gif)
+
+※ Dukeの画像はBSDライセンスで公開されたものを使用しています。
+
 Author Takayuki Kamiyama.
