@@ -7,7 +7,7 @@
 ```
 neovimまたはvim8 
 deoplete
-Python3.5以上
+Python3.6以上
 ```
 
 #### [lost_paradise]と表示されます。
@@ -22,7 +22,7 @@ deinで管理しているならば、
 
 使用例
 
-*Vim8でIntelliJをijaasで使うときにの入力補完として、お使いください！*
+*※ Vim8でIntelliJをijaasで使うときに、入力補完辞書としてお使いください*
 
 ![Duke](https://github.com/takkii/Tea_Coffee/blob/master/image/Duke_Blocks.gif)
 
