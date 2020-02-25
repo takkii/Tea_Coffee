@@ -1,4 +1,4 @@
-﻿import re
+import re
 import base64
 from deoplete.source.base import Base
 
