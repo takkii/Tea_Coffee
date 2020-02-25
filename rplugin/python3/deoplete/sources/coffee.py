@@ -7,11 +7,11 @@ from deoplete.source.base import Base
 
 home = expanduser("~")
 
-dire1 = os.path.expanduser("~/.vim/.cache/dein/repos/github.com/takkii/MinTab/")
-dire2 = os.path.expanduser("~/.vim/repos/github.com/takkii/MinTab/")
-dire3 = os.path.expanduser("~/.config/nvim/.cache/dein/repos/github.com/takkii/MinTab/")
-dire4 = os.path.expanduser("~/.config/nvim/repos/github.com/takkii/MinTab/")
-dire5 = os.path.expanduser("~/.cache/dein/repos/github.com/takkii/MinTab/")
+dire1 = os.path.expanduser("~/.vim/.cache/dein/repos/github.com/takkii/Tea_Coffee/")
+dire2 = os.path.expanduser("~/.vim/repos/github.com/takkii/Tea_Coffee/")
+dire3 = os.path.expanduser("~/.config/nvim/.cache/dein/repos/github.com/takkii/Tea_Coffee/")
+dire4 = os.path.expanduser("~/.config/nvim/repos/github.com/takkii/Tea_Coffee/")
+dire5 = os.path.expanduser("~/.cache/dein/repos/github.com/takkii/Tea_Coffee/")
 
 if os.path.exists(dire1):
     java = open(os.path.expanduser("~/.vim/.cache/dein/repos/github.com/takkii/Tea_Coffee/complete/java_complete"))
