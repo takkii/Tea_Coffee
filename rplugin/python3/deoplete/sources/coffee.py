@@ -1,6 +1,8 @@
+import os
 import re
-import base64
+import traceback
 from deoplete.source.base import Base
+from os.path import expanduser
 
 # ------------------------------- KEYWORD -------------------------------------------------------------------------
 
