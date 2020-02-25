@@ -24,7 +24,7 @@ deinで管理しているならば、
 
 使用例
 
-*※ Vim8でIntelliJをijaasで使うときに、入力補完辞書としてお使いください*
+*※ Vim8でIntelliJを[ijaas](https://github.com/takkii/build_ijaas)で使うときに、入力補完辞書としてお使いください*
 
 ![Duke](https://github.com/takkii/Tea_Coffee/blob/master/image/Duke_Blocks.gif)
 
