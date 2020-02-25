@@ -38,7 +38,7 @@ class Source(Base):
         super().__init__(vim)
         self.name = 'Tea_coffee'
         self.filetypes = ['java']
-        self.mark = '[Lost_paradise]'
+        self.mark = '[Lost_Paradise]'
         javamatch = [r'\.[a-zA-Z0-9_?!]*|[a-zA-Z]\w*::\w*']
         regexmatch = [r'[<a-zA-Z(?: .+?)?>.*?<\/a-zA-Z>]']
         self.input_pattern = '|'.join(javamatch + regexmatch)
