@@ -9,7 +9,7 @@
 ```
 neovim / vim8 
 deoplete
-Python3.6以上
+Python 3.6 以上
 ```
 
 #### 読み込まれれば[Lost_Paradise]と表示されます。
@@ -23,7 +23,7 @@ call dein#add('takkii/Tea_Coffee')
 tomlに記述するならば、
 
 ```markdown
-repo = "takkii/Tea_Coffee"
+repo = 'takkii/Tea_Coffee'
 ```
 
 使用例
@@ -34,4 +34,7 @@ repo = "takkii/Tea_Coffee"
 
 ※ Dukeの画像はBSDライセンスで公開されたものを使用しています。
 
+```markdown
+Tea_CoffeeはMIT ライセンスです。
 Author Takayuki Kamiyama.
+```
