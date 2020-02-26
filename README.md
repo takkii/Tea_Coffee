@@ -2,25 +2,29 @@
 
 <div align="center"><img src="https://github.com/takkii/Bignyanco/blob/master/images/python_ruby.gif" alt="PythonとRuby" title="logo"></div>
 
-## Tea_Coffeeはdeopleteプラグイン。
+## Tea_Coffee
 
 動作環境
 
 ```
-neovimまたはvim8 
+neovim / vim8 
 deoplete
 Python3.6以上
 ```
 
-#### [lost_paradise]と表示されます。
+#### 読み込まれれば[Lost_Paradise]と表示されます。
 
 deinで管理しているならば、
 
-> call dein#add('takkii/Tea_Coffee')
+```markdown
+call dein#add('takkii/Tea_Coffee')
+```
 
-追加後、インストールを起動時自動で設定してないとき、
+tomlに記述するならば、
 
->:call dein#install() または ショートコマンダーで :Din
+```markdown
+repo = "takkii/Tea_Coffee"
+```
 
 使用例
 
