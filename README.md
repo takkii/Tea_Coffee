@@ -4,7 +4,7 @@
 
 ## Tea_Coffee
 
-動作環境
+### 動作環境、読み込まれれば[Lost_Paradise]と表示されます。
 
 ```
 neovim / vim8 
@@ -12,19 +12,20 @@ deoplete
 Python 3.6 以上
 ```
 
-#### 読み込まれれば[Lost_Paradise]と表示されます。
-
-deinで管理しているならば、
+### deinで管理しているならば、
 
 ```markdown
 call dein#add('takkii/Tea_Coffee')
 ```
 
-tomlに記述するならば、
+### tomlに記述するならば、
 
 ```markdown
+[[plugins]]
 repo = 'takkii/Tea_Coffee'
 ```
+
+### それぞれどちらかを追加します。
 
 使用例
 
