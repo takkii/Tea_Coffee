@@ -31,6 +31,14 @@ repo = 'takkii/Tea_Coffee'
 
 *※ もし、エラーになるときPATHを確認してください。できれば指定のPATHに設定願います。*
 
+```markdown
+Lost Paradise - BENNIE K Feat. TSUYOSHI
+
+原点はJava言語を書き始めたこと。
+そのとき聴いていた曲から補完リスト表示に。
+```
+
+
 使用例
 
 *※ Vim8でIntelliJを[ijaas](https://github.com/takkii/build_ijaas)で使うときに、入力補完辞書としてお使いください*
