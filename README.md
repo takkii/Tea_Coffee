@@ -29,23 +29,30 @@ repo = 'takkii/Tea_Coffee'
 
 > 読み込まれれば[Lost_Paradise]と表示されます。
 
-*※ もし、エラーになるときPATHを確認してください。できれば指定のPATHに設定願います。*
-
 ```markdown
 Lost Paradise - BENNIE K Feat. TSUYOSHI
 
 原点はJava言語を書き始めたこと。
-そのとき聴いていた曲から補完リスト表示に。
+そのとき聴いていた曲から補完リスト表示にしました。
 ```
 
+*※ もしエラーになるとき、PATHにTea_Coffeeが含まれているか確認してください*
 
-使用例
+```markdown
+~/.vim/.cache/dein/repos/github.com/takkii/Tea_Coffee/
+~/.vim/repos/github.com/takkii/Tea_Coffee/
+~/.config/nvim/.cache/dein/repos/github.com/takkii/Tea_Coffee/
+~/.config/nvim/repos/github.com/takkii/Tea_Coffee/
+~/.cache/dein/repos/github.com/takkii/Tea_Coffee/
+```
+
+### 使用例
 
 *※ Vim8でIntelliJを[ijaas](https://github.com/takkii/build_ijaas)で使うときに、入力補完辞書としてお使いください*
 
 ![Duke](https://github.com/takkii/Tea_Coffee/blob/master/image/Duke_Blocks.gif)
 
-※ Dukeの画像はBSDライセンスで公開されたものを使用しています。
+### ※ Dukeの画像はBSDライセンスで公開されたものを使用しています
 
 ```markdown
 Tea_CoffeeはMIT ライセンスです。
