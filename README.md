@@ -33,10 +33,10 @@ repo = 'takkii/Tea_Coffee'
 Lost Paradise - BENNIE K Feat. TSUYOSHI
 
 原点はJava言語を書き始めたこと。
-そのとき聴いていた曲から補完リスト表示にしました。
+そのとき聴いていた曲を補完リスト表示にしました。
 ```
 
-*※ もしエラーになるとき、PATHにTea_Coffeeが含まれているか確認してください*
+*※もし読み込みエラーになるとき、PATHにTea_Coffeeが含まれているか確認してください*
 
 ```markdown
 ~/.vim/.cache/dein/repos/github.com/takkii/Tea_Coffee/
