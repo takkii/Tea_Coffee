@@ -39,7 +39,7 @@ class Source(Base):
     def __init__(self, vim):
         super().__init__(vim)
         self.name = 'Tea_coffee'
-        self.filetypes = ['java']
+        self.filetypes = ['java','jsp']
         self.mark = '[Lost_Paradise]'
         javamatch = [r'\.[a-zA-Z0-9_?!]*|[a-zA-Z]\w*::\w*']
         regexmatch = [r'[<a-zA-Z(?: .+?)?>.*?<\/a-zA-Z>]']
