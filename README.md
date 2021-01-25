@@ -48,11 +48,11 @@ Lost Paradise - BENNIE K Feat. TSUYOSHI
 
 ### 使用例
 
-![Lost_Paradise](https://github.com/takkii/Tea_Coffee/blob/master/image/Tea_Coffee.gif)
+![Lost_Paradise](https://github.com/takkii/Tea_Coffee/blob/main/image/Tea_Coffee.gif)
 
 ### ※ Vim8でIntelliJを[ijaas](https://github.com/takkii/build_ijaas)で使うときに、入力補完辞書としてお使いください
 
-![Duke](https://github.com/takkii/Tea_Coffee/blob/master/image/Duke_Blocks.gif)
+![Duke](https://github.com/takkii/Tea_Coffee/blob/main/image/Duke_Blocks.gif)
 
 ### ※ Dukeの画像はBSDライセンスで公開されたものを使用しています
 
