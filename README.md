@@ -57,6 +57,6 @@ Lost Paradise - BENNIE K Feat. TSUYOSHI
 ### ※ Dukeの画像はBSDライセンスで公開されたものを使用しています
 
 ```markdown
-Tea_CoffeeはMIT ライセンスです。
+Tea_Coffee is MIT License.
 Author Takayuki Kamiyama.
 ```
